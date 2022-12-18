@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sigdespengasih/static/css/main.92e0efb9.css",
+    "main.js": "/sigdespengasih/static/js/main.e1cbe9e9.js",
+    "static/js/787.2182cbee.chunk.js": "/sigdespengasih/static/js/787.2182cbee.chunk.js",
+    "static/media/drone-footage.mp4": "/sigdespengasih/static/media/drone-footage.3158f3879bda14c5a43e.mp4",
+    "static/media/OpenToPo.jpg": "/sigdespengasih/static/media/OpenToPo.cb174cbf024def5550c7.jpg",
+    "static/media/GoogleMaps.jpg": "/sigdespengasih/static/media/GoogleMaps.04fc8c40672334167840.jpg",
+    "static/media/OpenStreetMap.jpg": "/sigdespengasih/static/media/OpenStreetMap.7539382d01e6918b0edf.jpg",
+    "static/media/EsriWorldImagenery.jpg": "/sigdespengasih/static/media/EsriWorldImagenery.25662325fb7f4d431982.jpg",
+    "static/media/GoogleStreet.jpg": "/sigdespengasih/static/media/GoogleStreet.03ee3dbde65ae7bd1149.jpg",
+    "static/media/StadiaDark.jpg": "/sigdespengasih/static/media/StadiaDark.877541bf4605bd9826c6.jpg",
+    "static/media/EsriToPo.jpg": "/sigdespengasih/static/media/EsriToPo.57f0ba968eba41d0805b.jpg",
+    "static/media/EsriStreetMap.jpg": "/sigdespengasih/static/media/EsriStreetMap.82aa2291c10b5fed197f.jpg",
+    "static/media/CartoDb.jpg": "/sigdespengasih/static/media/CartoDb.b7c100c373e0be5c900d.jpg",
+    "index.html": "/sigdespengasih/index.html",
+    "main.92e0efb9.css.map": "/sigdespengasih/static/css/main.92e0efb9.css.map",
+    "main.e1cbe9e9.js.map": "/sigdespengasih/static/js/main.e1cbe9e9.js.map",
+    "787.2182cbee.chunk.js.map": "/sigdespengasih/static/js/787.2182cbee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e0efb9.css",
+    "static/js/main.e1cbe9e9.js"
+  ]
+}
